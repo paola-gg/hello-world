@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-first repository 
+First repository 
+I like :Harry Potter:, :coffee:, :books:.
