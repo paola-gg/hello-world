@@ -1,1 +1,1 @@
-this is a test file for github
+this is a test file for github. getting the hang of doing repositories in github. need to know how to put them in folders and subfolders.
